@@ -1,4 +1,4 @@
-<h1><b>Open Source project on Shopping Cart</b></h1>
+<h1><b>The Shopping Cart Applet</b></h1>
 
 <div>
 
